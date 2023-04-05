@@ -125,6 +125,7 @@ a{
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+  box-shadow: 5px 5px 5px 5px rgba(145, 92, 182, .4);
 }
 .Linked{
   width: 1.6%;
